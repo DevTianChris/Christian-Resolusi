@@ -1,0 +1,7 @@
+RENCANA BELAJAR CHRISTIAN
+
+-Belajar Github
+  -Dari WPU
+-Belajar WebPack
+-Belajar Javascript
+  -Belajar framework
