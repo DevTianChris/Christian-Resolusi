@@ -5,9 +5,13 @@ RENCANA BELAJAR CHRISTIAN
 -Belajar WebPack
   -NPM
 -Belajar Javascript
+  -Local Storage
   -Belajar framework
     - React
     - Vue
 - Belajar foto
   - komposisi
   - segitiga Eksposure
+
+- Belajar kamera 
+
