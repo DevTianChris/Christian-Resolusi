@@ -3,9 +3,15 @@ RENCANA BELAJAR CHRISTIAN
 -Belajar Github
   -Dari WPU
 -Belajar WebPack
+  -NPM
 -Belajar Javascript
   -Local Storage
   -Belajar framework
+    - React
     - Vue
-    - Angular
+- Belajar foto
+  - komposisi
+  - segitiga Eksposure
+
 - Belajar kamera 
+
