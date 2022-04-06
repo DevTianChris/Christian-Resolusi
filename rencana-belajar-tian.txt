@@ -4,4 +4,8 @@ RENCANA BELAJAR CHRISTIAN
   -Dari WPU
 -Belajar WebPack
 -Belajar Javascript
+  -Local Storage
   -Belajar framework
+    - Vue
+    - Angular
+- Belajar kamera 
