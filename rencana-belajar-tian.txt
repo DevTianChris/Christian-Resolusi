@@ -1,0 +1,5 @@
+RENCANA BELAJAR CHRISTIAN
+
+-Belajar Github
+-Belajar WebPack
+-Belajar Javascript
